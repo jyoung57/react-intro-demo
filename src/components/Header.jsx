@@ -5,5 +5,5 @@ export default function Header() {
     <header>
       <h1>Intro to React</h1>
     </header>
-  );
+  )
 }

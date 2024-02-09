@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import "../styles/Main.css";
 
 export default function Main() {
   return (
@@ -14,5 +15,5 @@ export default function Main() {
         incidunt deleniti. Tempore.
       </p>
     </main>
-  );
+  )
 }
