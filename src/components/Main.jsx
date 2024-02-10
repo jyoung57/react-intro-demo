@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Main.css';
-import { useState } from 'react';
+import MessageDisplay from './MessageDisplay';
 
 export default function Main() {
   const fruit = 'Blueberry';
